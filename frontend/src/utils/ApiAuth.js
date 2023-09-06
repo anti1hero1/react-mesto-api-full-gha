@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://api.anti1hero.nomoredomainsicu.ru';
+export const BASE_URL = 'https://api.anti1hero.nomoredomainsicu.ru';
 
 
 function handleReply(res) {

@@ -100,7 +100,7 @@ class Api {
 }
 
   const api = new Api({
-    url: 'http://api.anti1hero.nomoredomainsicu.ru',
+    url: 'https://api.anti1hero.nomoredomainsicu.ru',
   });
 
 export default api
