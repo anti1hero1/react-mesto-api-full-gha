@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.119.253
+IP 158.160.119.253
 
 Frontend https://anti1hero.nomoredomainsicu.ru
 
